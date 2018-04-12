@@ -1,0 +1,10 @@
+C:\Users\dimit\source\repos\Drawing Object\Drawing Object\bin\Debug\Drawing Object.exe.config
+C:\Users\dimit\source\repos\Drawing Object\Drawing Object\bin\Debug\Drawing Object.exe
+C:\Users\dimit\source\repos\Drawing Object\Drawing Object\bin\Debug\Drawing Object.pdb
+C:\Users\dimit\source\repos\Drawing Object\Drawing Object\obj\Debug\Drawing Object.csprojResolveAssemblyReference.cache
+C:\Users\dimit\source\repos\Drawing Object\Drawing Object\obj\Debug\Drawing_Object.Form1.resources
+C:\Users\dimit\source\repos\Drawing Object\Drawing Object\obj\Debug\Drawing_Object.Properties.Resources.resources
+C:\Users\dimit\source\repos\Drawing Object\Drawing Object\obj\Debug\Drawing Object.csproj.GenerateResource.Cache
+C:\Users\dimit\source\repos\Drawing Object\Drawing Object\obj\Debug\Drawing Object.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Drawing Object\Drawing Object\obj\Debug\Drawing Object.exe
+C:\Users\dimit\source\repos\Drawing Object\Drawing Object\obj\Debug\Drawing Object.pdb
