@@ -1,0 +1,11 @@
+C:\Users\dimit\source\repos\Pregled\Pregled\bin\Debug\Pregled.exe.config
+C:\Users\dimit\source\repos\Pregled\Pregled\bin\Debug\Pregled.exe
+C:\Users\dimit\source\repos\Pregled\Pregled\bin\Debug\Pregled.pdb
+C:\Users\dimit\source\repos\Pregled\Pregled\obj\Debug\NetflixnChill.csprojResolveAssemblyReference.cache
+C:\Users\dimit\source\repos\Pregled\Pregled\obj\Debug\Pregled.Form1.resources
+C:\Users\dimit\source\repos\Pregled\Pregled\obj\Debug\Pregled.NewMessage.resources
+C:\Users\dimit\source\repos\Pregled\Pregled\obj\Debug\Pregled.Properties.Resources.resources
+C:\Users\dimit\source\repos\Pregled\Pregled\obj\Debug\NetflixnChill.csproj.GenerateResource.Cache
+C:\Users\dimit\source\repos\Pregled\Pregled\obj\Debug\NetflixnChill.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Pregled\Pregled\obj\Debug\Pregled.exe
+C:\Users\dimit\source\repos\Pregled\Pregled\obj\Debug\Pregled.pdb
