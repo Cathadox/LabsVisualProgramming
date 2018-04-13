@@ -1,0 +1,12 @@
+C:\Users\dimit\source\repos\Airport Ispitna\Airport Ispitna\bin\Debug\Airport Ispitna.exe.config
+C:\Users\dimit\source\repos\Airport Ispitna\Airport Ispitna\bin\Debug\Airport Ispitna.exe
+C:\Users\dimit\source\repos\Airport Ispitna\Airport Ispitna\bin\Debug\Airport Ispitna.pdb
+C:\Users\dimit\source\repos\Airport Ispitna\Airport Ispitna\obj\Debug\Airport Ispitna.csprojResolveAssemblyReference.cache
+C:\Users\dimit\source\repos\Airport Ispitna\Airport Ispitna\obj\Debug\Airport_Ispitna.Dodadiaerodrom.resources
+C:\Users\dimit\source\repos\Airport Ispitna\Airport Ispitna\obj\Debug\Airport_Ispitna.dodadidestinacija.resources
+C:\Users\dimit\source\repos\Airport Ispitna\Airport Ispitna\obj\Debug\Airport_Ispitna.Form1.resources
+C:\Users\dimit\source\repos\Airport Ispitna\Airport Ispitna\obj\Debug\Airport_Ispitna.Properties.Resources.resources
+C:\Users\dimit\source\repos\Airport Ispitna\Airport Ispitna\obj\Debug\Airport Ispitna.csproj.GenerateResource.Cache
+C:\Users\dimit\source\repos\Airport Ispitna\Airport Ispitna\obj\Debug\Airport Ispitna.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Airport Ispitna\Airport Ispitna\obj\Debug\Airport Ispitna.exe
+C:\Users\dimit\source\repos\Airport Ispitna\Airport Ispitna\obj\Debug\Airport Ispitna.pdb
