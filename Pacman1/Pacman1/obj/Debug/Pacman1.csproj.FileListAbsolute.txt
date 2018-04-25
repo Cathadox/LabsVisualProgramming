@@ -1,0 +1,10 @@
+C:\Users\dimit\source\repos\Pacman1\Pacman1\obj\Debug\Pacman1.csprojResolveAssemblyReference.cache
+C:\Users\dimit\source\repos\Pacman1\Pacman1\obj\Debug\Pacman1.Form1.resources
+C:\Users\dimit\source\repos\Pacman1\Pacman1\obj\Debug\Pacman1.Properties.Resources.resources
+C:\Users\dimit\source\repos\Pacman1\Pacman1\obj\Debug\Pacman1.csproj.GenerateResource.Cache
+C:\Users\dimit\source\repos\Pacman1\Pacman1\obj\Debug\Pacman1.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Pacman1\Pacman1\bin\Debug\Pacman1.exe.config
+C:\Users\dimit\source\repos\Pacman1\Pacman1\bin\Debug\Pacman1.exe
+C:\Users\dimit\source\repos\Pacman1\Pacman1\bin\Debug\Pacman1.pdb
+C:\Users\dimit\source\repos\Pacman1\Pacman1\obj\Debug\Pacman1.exe
+C:\Users\dimit\source\repos\Pacman1\Pacman1\obj\Debug\Pacman1.pdb
